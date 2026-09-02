@@ -14,7 +14,7 @@ Konkretnymi wyjątkami są w tej dziedzinie rtęć i bursztyn. Choć teoretyczni
 
  Produkcję i sprzedaż środków psychomagicznych kontroluje Biuro Recept Akademii Sztuk Ezoterycznych: narkotyki magiaktywne wydawane są tylko certyfikowanym przez ASE magom po odpowiednich szkoleniach, uczulonym przez Akademię na rtęć i doedukowanym na temat niebezpieczeństw związanych z paranormą. Określone substancje wydają za opłatą i receptą konkretne, certyfikowane paranormalnie apteki rozsiane po mieście. Czarodzieje mogą funkcjonować także poza społeczeństwem prawa — korzystać z usług nielegalnych laboratoriów magicznych — ale nakryci na takim procederze podlegają wykluczeniu ze struktur ASE i surowej karze prawnej, która w większości przypadków składa się z egzekucji.
 
-### RÓŻNORODNOŚĆ MAGICZNA
+##### RÓŻNORODNOŚĆ MAGICZNA
 
 Powszechnie uważa się, że stabilne zdolności magiczne, o ile w większej mierze są wyćwiczone ciężką pracą, są po części predestynowane. Zależnie od, jak się uważa, cyklów astralnych podczas narodzin, lub u rodowodów o krwi silnie nasyconej praktyką magiczną, mogą występować przypadki o zwiększonej zdolności paranormalnej i predyspozycjach do konkretnych sztuczek ezoterycznych. Wśród arystokracji rozwija się moda na dobieranie sobie małżonków-magów, aby ich dziecię miało większe szanse w Akademii, a każdy mag w innym stopniu i w inny sposób reaguje na substancje paranormalne. 
 
@@ -50,7 +50,7 @@ Z perspektywy szeregowego maga Akademia Sztuk Ezoterycznych to przede wszystkim 
 
 Owe magiczne prawo jest regulowane przez Akademię w kooperacji z rządem i jest niezwykle obszerną listą regulacji, procedur i zakazów, za których złamanie grozi wyrok lub grzywna ze strony wewnętrznej prokuratury Akademii lub, w szczególnych przypadkach, Inkwizycji. Dotyczy występków związanych z nieregulowanym użytkowaniem magii i konsekwencji, jakie z tego wynikają; ma pod swoją jurysdykcją każdego, kto używa regulowanych substancji magicznych. Surowo karane są tu przede wszystkim: przekazywanie substancji magicznych niecertyfikowanym użytkownikom, korzystanie z owych substancji bez certyfikacji ASE, doprowadzenie do incydentu paranormalnego poprzez rażące zaniedbanie środków bezpieczeństwa, planowanie popełnienia czynu nielegalnego oraz wymiernie szkodliwego dla przynajmniej jednej innej osoby z użyciem substancji magicznych. Co ważne: wolnym od osądów ASE i podlegającym wyłącznie prawu koronnemu jest ten, który z użyciem substancji magicznych łamie prawo obyczajowe, tzn. nie wspomaga się magią w kradzieży, morderstwie, groźbie i nie dotyka swoim występkiem mienia lub zdrowia innych.
 
-### PODSUMOWUJĄC:
+##### PODSUMOWUJĄC:
 
 ~> Ludzie nie wykazują dostatecznej sygnatury w Zasłonie, tzn. nawet urodzeni z talentem nie mogą czarować bez wspomagaczy. Ludzkie ciało nie jest zdolne do połączenia się z Zasłoną samodzielnie; do czarowania potrzebne są specjalne substancje psychoaktywne, które oprócz działania na umysł maga pogrubiają jego ślad psioniczny i pozwalają wyjrzeć za świat doczesny. Zasłona to szerszy fenomen paranormalny, u którego ma mieć źródło większość paranormum miasta. 
 ~> Konkretne substancje przyjęte na konkretne sposoby sprzyjają konkretnym dziedzinom magii. Palony skanrański arysz poszerza naszą percepcję o świat nadnaturalny, pozwala na interakcję z duchami, czasem śladami przeszłości; wciągana alofeina jest destruktywna w działaniu i pozwala na niekontrolowane przypływy energii (termomancja, kinetyka, etc.); zakazana Rdza wytęża człowieka na komunikację z zarazą i pozwala ją w ograniczonym stopniu kontrolować. Wszystkie te substancje są w swoim stopniu uzależniające i szkodliwe dla organizmu, na przykład: im mniej czysta alofeina, tym bardziej wzmaga agresję, deluzje i tym groźniejszy jest odwyk. 
@@ -58,7 +58,7 @@ Owe magiczne prawo jest regulowane przez Akademię w kooperacji z rządem i jest
 ~> Najdostępniejszymi legalnymi drogami otrzymania substancji magicznych są: otrzymanie ich od pracodawcy w ramach wyznaczonego zadania; zawnioskowanie o nie w certyfikowanej przez ASE aptece i wypełnienie odpowiedniej papierologii. Nakrycie na korzystaniu z substancji niezarejestrowanych kończy się okrzyknięciem maga okultystą i wymierzeniem kary (najczęściej śmierci) w sądzie inkwizycyjnym.
 ~> Substancji takich jest zbyt wiele, żeby wymienić je wszystkie; mogą mieć podobne efekty, podobną konstrukcję, substancje para-aktywne są ulubionym obiektem badań Akademii Sztuk Ezoterycznych.
 
-### Krótka lista pomysłów na _magidragi_:
+##### Krótka lista pomysłów na _magidragi_:
 
 - wyżej wspomniane alofeina, arysz, rdza,
 - zorzyk/rozkwitka to napój parzony z liści rozkwitki i jest to jedno z niewielu określonych prawnie, legalnych źródeł magii dla ludzi niewyszkolonych w Akademii: niezależnie od dawki pozwala jedynie na proste czynności codzienne, pokroju zapalenia świeczki, utrzymania ciepła w kubku lub sztuczek z monetami,
