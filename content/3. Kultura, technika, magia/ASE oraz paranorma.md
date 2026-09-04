@@ -1,3 +1,19 @@
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px;">
+  <div>
+    <h3>Left Column</h3>
+    <p>Test kolumn lewaaaa</p>
+  </div>
+  <div>
+    <h3>Middle Column</h3>
+    <p>Test kolumn prawaaa</p>
+  </div>
+  <div>
+    <h3>Right Column</h3>
+    <p>Test kolumn najprawiejsza</p>
+  </div>
+</div>
+
+
 Szerszy świat zna wiele zjawisk, których nauki fizyczne zdają się nie obchodzić. Nadnaturalne fenomeny wykraczające poza rozumowanie nauki tradycyjnej nazywamy paranormą; to nauka metafizyczna, a miejscami wykraczająca nawet poza definicje metafizyczne i przechodząca w czysty absurd. To zjawy, ektoplazma, zbyt głośno skrzypiące i zbyt strome schody w mieszkaniu twojej babuni, ale także trudne do wytłumaczenia drogą ewolucyjną stworzenia — wampiry, wilkołaki, ludzie z wężami zamiast włosów, rybimi głowami i kaczymi częściami rozrodczymi. To obszerna kategoria uwzględniająca także Rdzę, Otchłań, szaleństwo lunarne i samą praktykowaną przez człowieka magię. Paranorma jest przede wszystkim definiowana jako zbiór wszystkich tych określeń, które nie mieszczą się zupełnie w granicy świata naturalnego i wraz z postępem naukowym skutecznie zmniejsza się o kolejne kategorie: paranorma nie ma trwałej granicy, określa przede wszystkim to, czego człowiek nie wie i dla to, dla czego wyjaśnienia przeczą zgromadzonej przez ludzkość wiedzy. Dobrze płynność tą ilustruje temat odurzającego wpływu narkotyków: kiedyś właściwości ziół, alkoholi i tytoniów były uznawane za nadnaturalne przypływy energii, ale dzisiaj, po wiekach rozwoju chemii i alchemii, zagadką paranormalną pozostają dla nas tylko niektóre spośród ich właściwości. Paranorma została przez aksminsterskich inżynierów i naukowców skierowana ku innowacjom i przyniosła miastu mnóstwo korzyści. Do nich wliczamy: narkotyczne substancje magiczne, reaktory magitechniczne, żywe marionetki i wszystkie narzędzia, które gwarantują nam bezpieczeństwo przed mniej kolorowymi aspektami świata nadnaturalnego.
 
 ## MAGIA

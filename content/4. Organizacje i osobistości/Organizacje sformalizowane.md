@@ -14,4 +14,5 @@ przywództwo: Inkwizytor wielki Harlowe Marais</span>
 - prowadzenie inspekcji, śledztw i dokonywanie pomiarów oraz przesłuchiwań bez nakazów na podstawie uzasadnionych podejrzeń,
 - zasięganie sprzętu oraz personelu od służb porządkowych mniejszego kalibru, np. policji lub straży nocnej, na podstawie wniosków 
 - konfiskata nieregulowanych artefaktów o pochodzeniu paranormalnym w celu przekazania ich do zbiorów ASE.
+
 <span style="color:#5c5c5c">Inkwizycja operuje na podstawie dedykowanych ustaw o bezpieczeństwie paranormalnym, dzięki czemu omija ją większość koncepcji "praw obywatelskich" albo "prawa policyjnego". Dzieli jednak w sprawie paranormy swoje kompetencje z poszczególnymi biurami ASE. Inspektorzy Inkwizycji zyskują swoje specjalne uprawnienia na bazie dekretów i poświadczeń wypisywanych przez komisarzy na określonych warunkach (czas, miejsce, ewentualny kontekst wykorzystania uprawnień).</span>
